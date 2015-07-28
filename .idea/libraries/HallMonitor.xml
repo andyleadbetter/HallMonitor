@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HallMonitor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/download/CM_SystemApp/HallMonitor.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
